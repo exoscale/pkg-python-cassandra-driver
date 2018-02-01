@@ -1,3 +1,9 @@
+python-cassandra-driver (3.7.1-2.1ubuntu2~xenial0+exo1) xenial; urgency=medium
+
+  * Backport for Xenial.
+
+ -- Vincent Bernat <bernat@debian.org>  Thu, 01 Feb 2018 16:16:55 +0100
+
 python-cassandra-driver (3.7.1-2.1ubuntu2) artful; urgency=medium
 
   * No-change rebuild to build with python3.6.
