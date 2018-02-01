@@ -1,6 +1,7 @@
 python-cassandra-driver (3.7.1-2.1ubuntu2~xenial0+exo1) xenial; urgency=medium
 
   * Backport for Xenial.
+     + Switch to debhelper 9.
 
  -- Vincent Bernat <bernat@debian.org>  Thu, 01 Feb 2018 16:16:55 +0100
 
